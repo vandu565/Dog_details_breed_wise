@@ -3,11 +3,11 @@
     justify-content: space-around;
     margin: 50px;
     align-items: center;
-    border:2px solid black;
+    
     height: 100px;
     width: 100%;
     margin-left: 0;
-    background-color: palevioletred;
+    background-image: linear-gradient(-90deg, floralwhite, azure);
  
 }
 
