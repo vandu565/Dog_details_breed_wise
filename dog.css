@@ -28,7 +28,7 @@
    /* border:2px solid black;*/
     overflow: hidden;
     object-fit:contain;
-    background-image: linear-gradient(-90deg, floralwhite, azure);
+    background-color: transparent;
 }
 #image img {
     max-height: 400px;
