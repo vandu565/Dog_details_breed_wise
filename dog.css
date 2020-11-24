@@ -3,11 +3,11 @@
     justify-content: space-around;
     margin: 50px;
     align-items: center;
-    border:2px solid yellowgreen;
+    border:2px solid black;
     height: 100px;
     width: 100%;
     margin-left: 0;
-    background-color: lawngreen;
+    background-color: palevioletred;
  
 }
 
@@ -16,7 +16,7 @@
     justify-content: space-around;
     margin: 50px;
     align-items: center;
-    border:2px solid yellowgreen;
+    border:2px solid black;
     height: 400px;
     width: 80%;
     padding: 20px;
@@ -24,8 +24,9 @@
 #image{
     width: 50%;
     height: 300px;
-    border:2px solid yellowgreen;
+    border:2px solid black;
     overflow: hidden;
+    object-fit:contain;
 }
 #image img {
     max-height: 400px;
